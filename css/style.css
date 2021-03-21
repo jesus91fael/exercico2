@@ -1,0 +1,39 @@
+
+body{
+    background-color: black;
+    margin: 0 auto;
+    color: #ffffff;
+   
+}
+
+h1{
+    text-align: center;
+}
+
+.box{
+    max-width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    
+}
+
+.img{
+    flex: 1;    
+    margin: 10px;
+
+}
+
+.boxp2{
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+a{  
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+
